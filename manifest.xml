@@ -4,4 +4,6 @@
   <author>tbd/tbd@tbd.de</author>
   <maintainer>tbd/tbd@tbd.de</maintainer>
   <license>tbd</license>
+
+  <depend package="pillow" />
 </package>
