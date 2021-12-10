@@ -5,6 +5,4 @@
   <maintainer>tbd/tbd@tbd.de</maintainer>
   <license>tbd</license>
 
-  <depend package="pillow" />
-  <depend package="opencv-python" />
 </package>
